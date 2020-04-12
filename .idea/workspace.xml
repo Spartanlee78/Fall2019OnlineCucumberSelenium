@@ -27,7 +27,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1aP7ZyrdwadGQEmtm1lD0OSBKiF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
